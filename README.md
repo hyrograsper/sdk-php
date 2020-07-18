@@ -1,4 +1,4 @@
 sdk-php
 =======
 
-MemberSuite SDK for pHp
+MemberSuite SDK for php
